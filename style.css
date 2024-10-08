@@ -1,0 +1,12 @@
+ul.menu{
+    list-style: circle;
+}
+ol.numeros{
+    list-style: decimal;
+}
+ol.numeros_romanos{
+    list-style: upper-roman;
+}
+ol.letras_minus{
+    list-style: lower-latin;
+}
